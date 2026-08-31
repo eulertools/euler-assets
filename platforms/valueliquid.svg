@@ -1,0 +1,9 @@
+<svg id="valueliquid" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4.86757V11.0649C0 12.2872 0.558853 13.4424 1.51719 14.2011L9.51719 20.5344C10.972 21.6862 13.028 21.6862 14.4828 20.5344L22.4828 14.2011C23.4411 13.4424 24 12.2872 24 11.0649V4.86757C24 3.24444 22.1685 2.29733 20.844 3.23552L13.156 8.68114C12.4634 9.17174 11.5366 9.17174 10.844 8.68114L3.15603 3.23552C1.83152 2.29733 0 3.24444 0 4.86757Z" fill="url(#paint0_linear)"/>
+    <defs>
+        <linearGradient id="paint0_linear" x1="12" y1="3" x2="12" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#2A6BEA"/>
+            <stop offset="1" stop-color="#6843E2"/>
+        </linearGradient>
+    </defs>
+</svg>

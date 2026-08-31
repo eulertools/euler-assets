@@ -1,0 +1,8 @@
+{
+    "name": "Test coin",
+    "type": "BEP20",
+    "symbol": "TESTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa037C562d8A5914F9e314EFa5308e1f8E3BAd1Ac"
+}

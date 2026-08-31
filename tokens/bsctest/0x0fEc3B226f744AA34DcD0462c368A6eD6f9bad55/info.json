@@ -1,0 +1,8 @@
+{
+    "name": "Test Token",
+    "type": "BEP20",
+    "symbol": "TEST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0fEc3B226f744AA34DcD0462c368A6eD6f9bad55"
+}
